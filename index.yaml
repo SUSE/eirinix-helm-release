@@ -3,11 +3,11 @@ apiVersion: v1
 entries:
   eirini-extensions:
   - apiVersion: v1
-    created: '2020-05-05T21:49:42+00:00'
+    created: '2020-05-05T22:10:10+00:00'
     description: Eirini Extensions for KubeCF
-    digest: 21be7a6ee75dadea9fdad2025ca67de74518e8659ddb4a5f42eb64163da68800
+    digest: 1aa2794e9a4b45a308f1c169ed6fedffd4952ee3cabf5b5ce3e1bdb440d1b233
     name: eirini-extensions
     urls:
-    - https://github.com/SUSE/eirinix-helm-release/releases/download/v0.0.0-8%2Bg7d0f63e/eirini-extensions-0.0.0-8-1588715185%2Bg7d0f63e.0a15cf12.tgz
+    - https://github.com/SUSE/eirinix-helm-release/releases/download/v0.0.0-8%2Bg7d0f63e/eirini-extensions-0.0.0-8-1588716532%2Bg7d0f63e.b0714768.tgz
     version: 0.0.0-8+g7d0f63e
-generated: '2020-05-05T21:49:51+00:00'
+generated: '2020-05-05T22:10:11+00:00'
